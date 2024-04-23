@@ -1,0 +1,7 @@
+trade:
+    request-receive: "%player% wants to trade with you"
+    request-send: "Sent trade request to %player%"
+    accepted-received: "&aAccepted trade request with %player%"
+    accepted-sent: "&a%player% accepted your request"
+    already-sent: "&cYou already sent trade request to %player%"
+    error-self: "&cYou cannot trade your self"
